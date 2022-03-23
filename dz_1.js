@@ -4,7 +4,7 @@
 
 var Tc = 30;
 Tf = (9 / 5) * Tc + 32;
-console.log(Tf)
+console.log(Tf);
 
 // 2.Объявить две переменные: admin и name. Записать в name строку "Василий"; Скопировать
 // значение из name в admin. Вывести admin (должно вывестись «Василий»).
@@ -13,7 +13,7 @@ var admin;
 var name;
 var name = "Василий";
 var admin = name;
-console.log(admin)
+console.log(admin);
 
 // 3. * Чему будет равно JS-выражение 1000 + "108"?
 
